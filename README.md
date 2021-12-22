@@ -1,7 +1,7 @@
-#Relay Utils Library
+# Relay Utils Library
 Class and methods to make easier control relays in Arduino.
 
-##How to use
+## How to use
 
 Example
 ```
